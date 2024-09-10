@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adritatori
-- 👀 I’m interested in Frontend development and compitative programming
-- 🌱 I’m currently focused learning Js and C/C++
-- 💞️ I’m looking to collaborate on Creating brilliant Js projects and practcing for cp contests. 
+- 👀 I’m interested in almost everything related to computer science
+- 🌱 Currently working as Research student and Freelance Software engineer.
 - 📫 you can reach me at my gmail adritatori456@gmail.com
 
 <!---
