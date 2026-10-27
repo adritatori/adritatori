@@ -50,12 +50,3 @@ code = ["Python", "C++", "React", "TypeScript"]
 
 </div>
 
----
-
-<div align="center">
-
-**🎓** M.S. IT @ Jahangirnagar • B.Sc. CSE @ BUBT • **🏅** CompTIA Security+
-
-![](https://komarev.com/ghpvc/?username=adritatori&color=blueviolet&style=flat-square)
-
-</div>
